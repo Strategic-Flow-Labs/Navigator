@@ -1,2 +1,2 @@
-# Niche
-Niche is a programming language designed for the developer who values precision, elegance, and efficiency in creative language. This platform crafts code for the Connoisseur - a language that is expressive and empowering as a work of art.
+# Navigator
+Navigator is a programming language designed for the developer who values precision, elegance, and efficiency in creative language for symbolic representation. This platform crafts code for the Connoisseur - a language that is expressive and empowering as a work of art. The semiotic framework refers to the concepts, processes, for modeling within a research context where system helps navigate complex data or information structures in a research station.
